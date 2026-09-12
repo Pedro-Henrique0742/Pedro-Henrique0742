@@ -4,23 +4,6 @@
 
 Me chamo Pedro Henrique, tenho 19 anos e sou natural de Goias. Estudante de Engenharia de Software apaixonado por tecnologia e desenvolvimento. Atualmente estudando desenvolvimento Web, JavaScript, Python, estruturas de dados, Engenharia de Software e fundamentos de infraestrutura e DevOps. Utilizo o GitHub para registrar projetos, estudos e minha evolução na programação.
 
-<p align="left">
-    <a href="https://github.com/Pedro-Henrique0742?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Pedro-Henrique0742?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
