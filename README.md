@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Pedro Henrique
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Pedro Henrique, tenho 19 anos e sou natural de Goias. Estudante de Engenharia de Software apaixonado por tecnologia e desenvolvimento. Atualmente estudando desenvolvimento Web, JavaScript, Python, estruturas de dados, Engenharia de Software e fundamentos de infraestrutura e DevOps. Utilizo o GitHub para registrar projetos, estudos e minha evolução na programação.
 
